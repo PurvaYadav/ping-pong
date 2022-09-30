@@ -1,0 +1,48 @@
+.heading
+{
+ width: 100%;
+ margin: 0px;
+ font-size: 22px;
+ text-align: left;
+}
+
+.button 
+{
+    background-color: white;
+}
+
+canvas {
+    border: 5px solid white;
+    margin-top: 10px;
+    box-shadow: 5px 5px grey;
+    border-radius: 20px;
+    margin-bottom: 90px;
+}
+
+.heading h3 {
+    display: inline;
+    margin-left: 30px;
+}
+
+.heading button {
+    float: right;
+    border: 2px solid white;
+}
+
+.modal-body {
+    background-image: url(instructions.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: darkblue;
+}
+
+.copy-right-footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    line-height: 2;
+    text-align: center;
+    
+}
